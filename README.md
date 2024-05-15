@@ -1,7 +1,5 @@
 # Language Translation Bot
 
-![Language Translation Bot](images/language_translation_bot.png)
-
 ## Project Overview
 
 The Language Translation Bot is a serverless application built on AWS that allows users to translate text from one language to another using Amazon Translate. The application utilizes Amazon S3 buckets to store input text files and translated text results, along with an AWS Lambda function to orchestrate the translation process.
